@@ -7,5 +7,5 @@ import org.springframework.boot.runApplication
 class SpringReactiveDemoApplication
 
 fun main(args: Array<String>) {
-	runApplication<SpringReactiveDemoApplication>(*args)
+    runApplication<SpringReactiveDemoApplication>(*args)
 }
